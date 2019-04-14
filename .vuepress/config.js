@@ -26,10 +26,6 @@ module.exports = {
     {
       text: 'External',
       link: 'https://www.google.com/'
-    },
-    {
-      text: 'Admin',
-      link: '/admin/#/'
     }
     ],
     sidebar: {
