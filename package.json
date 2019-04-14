@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-netlify-cms",
+  "version": "1.0.0",
+  "description": "Vuepress + NetlifyCMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioZanchi/vuepress-netlify.git"
+  },
+  "keywords": [],
+  "author": "Fabio Zanchi",
+  "license": "ICS",
+  "bugs": {
+    "url": "https://github.com/FabioZanchi/vuepress-netlify/issues"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.47"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47"
+  }
+}
