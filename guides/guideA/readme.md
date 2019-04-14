@@ -1,10 +1,10 @@
 ---
 title: Guide A
-date: 2019-04-11T05:32:12.066Z
+date: 2019-04-14T05:32:12.066Z
 ---
 # Guide A Example
 
-## # Guide A Subheading
+## Guide A Subheading edited on NetlifyCMS
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nisi nisl, accumsan ut orci vitae, sodales sodales urna. Proin interdum molestie lacinia. Pellentesque neque nisi, aliquet vel dictum eget, sollicitudin nec nisi. Sed suscipit varius ante vitae tincidunt. Nulla eu erat massa. Donec nisi ante, venenatis vitae arcu nec, ultricies maximus nulla. Cras justo risus, condimentum a sodales hendrerit, feugiat eget mi.
 
