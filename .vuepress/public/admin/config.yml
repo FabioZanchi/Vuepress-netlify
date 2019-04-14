@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: Production # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: "/.vuepress/public/images"
 public_folder: "/images"
